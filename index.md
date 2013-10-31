@@ -53,6 +53,11 @@ Keep your logstash up to date with this script.
 
 Already have a centralized rsyslog server,  agent and indexer config to eat your logs.
 
+## [Central rsyslog server to logstash via RELP](recipes/central-rsyslog/)
+
+Already have a centralized rsyslog server,  Add a RELP export to Logstash with JSON.
+
+
 ## [removing Linux color codes from logs](recipes/color-codes/)
 
 Remove the color codes from Linux logs
